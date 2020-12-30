@@ -1,0 +1,2 @@
+class PlaylistNotFoundException(Exception):
+    pass
